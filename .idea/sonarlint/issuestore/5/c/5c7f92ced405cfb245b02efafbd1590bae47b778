@@ -1,0 +1,7 @@
+
+—
+java:S1192	"ODefine a constant instead of duplicating this literal "Car position: " 3 times.(ïˆ³øÿÿÿÿ8¨ç¸°è1J$c5ec37fb-a1c6-4543-af48-d3148415cab0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›©×ışÿÿÿÿ8¨ç¸°è1J$7c2e5f4d-5109-412f-a6b9-f01b3a8a9c88
+r	java:S106	"+Replace this use of System.out by a logger.(ïˆ³øÿÿÿÿ8·ç¸°è1J$9bffd237-f8d1-4f3d-b0ad-16330eb09186
+r	java:S106"+Replace this use of System.out by a logger.(ïˆ³øÿÿÿÿ8¿ç¸°è1J$57706490-e45c-402b-8c34-49b0fd48fe32
+r	java:S106"+Replace this use of System.out by a logger.(ïˆ³øÿÿÿÿ8Àç¸°è1J$5b4a3ab1-5530-494b-bd42-4f710e529a7b
